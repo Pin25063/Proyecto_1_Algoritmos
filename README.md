@@ -1,4 +1,4 @@
-## Proyecto 1 - Grupo
+# Proyecto 1 - Grupo
 
 - Valeria Hernández - 25086 
 - Sergio López - 25848
